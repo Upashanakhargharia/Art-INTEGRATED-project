@@ -15,7 +15,11 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    height: 400px;
+    
 
 }
+body {
+    background-image: url("wp4021293.jpg");
+    background-color: #cccccc;
+   }
 
