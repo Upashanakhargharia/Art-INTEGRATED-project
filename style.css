@@ -1,5 +1,5 @@
 .nav
-{ background-color: blue;
+{ background-color: rgb(255, 123, 0);
     margin : 10px;
     font-size: larger;
     background: yellowgreen;
@@ -19,7 +19,7 @@
 
 }
 body {
-    background-image: url("wp4021293.jpg");
+    background-image: url("Amber.jpg");
     background-color: #cccccc;
    }
 
