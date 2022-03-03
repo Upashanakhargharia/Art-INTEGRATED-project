@@ -39,7 +39,13 @@ body {
     background-image: url("border.jpg");
 
 }
-#borderimg {
+
+.sec2{
+    background-color: cadetblue;
+    padding: 0.5rem;
+    background-image: url("border.jpg");
+
+}#borderimg {
     border-image: url("border.jpg");
   }
 .para1
