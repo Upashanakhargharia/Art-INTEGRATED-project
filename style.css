@@ -44,12 +44,12 @@
 
 }
 
-
+.
     background-color: cadetblue;
     padding: 0.5rem;
     background-image: url("border.jpg");
 
-}
+
 
 #borderimg {
     border-image: url("border.jpg");
@@ -70,11 +70,7 @@
     color: white;
     border-top-right-radius: 1rem;
 }
-{.sec2
-background-color: rgb(226, 177, 142);
-    opacity: 80%;
-    color: rgb(0, 0, 0);
-    padding: 1rem;
+
 
 .para2
 .footer.footer .link {
