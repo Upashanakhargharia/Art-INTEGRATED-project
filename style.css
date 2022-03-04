@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300;900&display=swap');
+
+
 .nav {
     background-color: rgba(247, 175, 41, 0.993);
     margin: auto;
@@ -44,11 +47,8 @@
 
 }
 
-.
-    background-color: cadetblue;
-    padding: 0.5rem;
-    background-image: url("border.jpg");
 
+   
 
 
 #borderimg {
@@ -64,11 +64,19 @@
 }
 
 .footer {
-    background-color: var(--primary);
+    background-color
+    :black;
     padding: 2rem 1rem;
     text-align: center;
     color: white;
-    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+border-bottom-left-radius: 1rem;
+border-top-left-radius: 1rem;
+border-top-right-radius: 1rem;
+
+
+
+
 }
 
 
@@ -89,5 +97,4 @@
 .inline-li {
     display: inline;
     padding: 0rem 0.5rem;
-}
 }
